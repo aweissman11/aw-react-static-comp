@@ -7,7 +7,7 @@
   margin-top: 20px;
 }
 
-.Story img {
+.Story-img {
   width: 175px;
 }
 
@@ -16,16 +16,17 @@
   flex-direction: column;
   justify-content: space-between;
   text-align: left;
-  padding: 15px;
+  padding: 0 5px;
 }
 
 .story-info h3 {
   letter-spacing: 1px;
-  margin: 5px;
+  margin: 25px 0 5px;
 }
 
 .story-info p {
   font-weight: lighter;
   line-height: 150%;
   margin: 0;
+  font-size: .8em;
 }
