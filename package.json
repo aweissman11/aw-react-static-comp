@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/turingschool-examples/react-starter-kit.git"
+    "url": "https://github.com/aweissman11/aw-react-static-comp.git"
   },
   "jest": {
     "moduleNameMapper": {
